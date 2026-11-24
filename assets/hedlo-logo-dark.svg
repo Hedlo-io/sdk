@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 64" width="222" height="64" role="img" aria-label="Hedlo">
+  <rect width="64" height="64" rx="14" fill="#13757D"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="9.5">
+    <path d="M20.75 11V53"/>
+    <path d="M20.75 33A11.5 11.5 0 0 1 43.75 33"/>
+  </g>
+  <g fill="#FFFFFF">
+    <rect x="39" y="33" width="9.5" height="5.4"/>
+    <rect x="39" y="40.3" width="9.5" height="5.4"/>
+    <rect x="39" y="47.6" width="9.5" height="5.4"/>
+  </g>
+  <circle cx="43.75" cy="35.7" r="1.45" fill="#E8A33D"/>
+  <g transform="translate(80 5)" fill="none" stroke="#F3F6F6" stroke-width="6">
+    <path d="M3 6V48M3 34A11 11 0 0 1 25 34V48"/>
+    <path d="M37 34H59A11 11 0 1 0 55.78 41.78"/>
+    <path d="M71 34A11 11 0 1 0 93 34A11 11 0 1 0 71 34M93 6V48"/>
+    <path d="M105 6V48"/>
+    <circle cx="128" cy="34" r="11"/>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+.pnp.*
+.yarn/
+.npm/
+
+# Build output
+dist/
+build/
+.weft/
+*.tsbuildinfo
+*.tgz
+
+# Tests and coverage
+coverage/
+.nyc_output/
+test-results/
+playwright-report/
+
+# Local databases
+data/
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.sqlite
+pglite/
+.pglite/
+
+# Logs
+*.log
+.log
+logs/
+npm-debug.log*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors and OS
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local assistant settings
+.claude/settings.local.json
+
+# Packed plugin archives produced by the CLI
+*.hpkg
+.hedlo/

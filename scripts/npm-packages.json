@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "name": "@hedlo/market",
+      "dir": "packages/market",
+      "description": "Hedlo Marketplace library: package archives, signing, licences, pricing, ledger and registry client",
+      "keywords": ["hedlo", "marketplace", "plugins", "licensing"],
+      "homepage": "https://hedlo.io"
+    }
+  ]
+}
